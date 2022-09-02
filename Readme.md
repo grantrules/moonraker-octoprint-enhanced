@@ -25,6 +25,8 @@ If you currently have octoprint_compat configured in moonraker.conf, simply repl
 
 You cannot have both a `[octoprint_compat]` and `[octoprint_enhanced]` section in your config, as they will conflict.
 
+The configuration options are the same as the [`[octoprint_compat]` configuration options](https://github.com/Arksine/moonraker/blob/d04e99a8ecb8ad4e6adfc1e0631644e21cc0778e/docs/configuration.md#octoprint_compat)
+
 ## Enable updating with moonraker update manager
 
 This repo can be updated with the update manager of moonraker. To do so 
