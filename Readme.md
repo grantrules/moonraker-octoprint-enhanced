@@ -40,5 +40,6 @@ type: git_repo
 primary_branch: master
 path: ~/moonraker-octoprint-enhanced
 origin: https://github.com/grantrules/moonraker-octoprint-enhanced.git
+install_script: scripts/install.sh 
 managed_services: moonraker
 ```
